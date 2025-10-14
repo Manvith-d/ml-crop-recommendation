@@ -18,3 +18,8 @@ Python (Flask, scikit-learn, pandas, numpy), HTML/CSS.
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
+
+## 📄 Publication
+
+- **Paper:** [Crop Recommendation using ML](docs/crop_recommendation_paper.pdf)
+- **Certificate:** [Publication Certificate](docs/crop_recommendation_certificate.pdf)
